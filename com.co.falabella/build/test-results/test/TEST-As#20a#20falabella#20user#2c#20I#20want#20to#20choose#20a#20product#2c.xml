@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="As a falabella user, I want to choose a product," tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-29T13:30:23" hostname="CHBOGPF350ZNG" time="61.205">
+  <properties/>
+  <testcase name="choose the product, enter the cart and get to the payment" classname="As a falabella user, I want to choose a product," time="61.205"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[jun 29, 2022 8:30:24 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 22444
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 29, 2022 8:30:27 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
